@@ -1,3 +1,14 @@
 body{
   background-image: url(xmas-poster.jpg);
 }
+.design{
+      heigth: 500px;
+      width: 350px:
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      color: red;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+
+      }
