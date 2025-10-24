@@ -6,8 +6,9 @@ body{
   background-size: cover;
 }
 .design{
-      heigth: 500px;
+      heigth: 700px;
       width: 350px:
+      margin-top: 10px;
       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
       color: red;
       display: flex;
