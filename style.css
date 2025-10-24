@@ -1,5 +1,6 @@
 body{
   background-image: url(xmas-poster.jpg);
+  background-repeat: no-repeat;
 }
 .design{
       heigth: 500px;
